@@ -9,4 +9,4 @@
    <p align="center">
 Currently learning Python
 <p align="center">
-    <a href="https://e-z.bio/sixteen">bio</a>
+    <a href="https://e-z.bio/psykotic">bio</a>
